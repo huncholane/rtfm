@@ -21,3 +21,5 @@ mkdir -p ~/.claude/skills/rtfm && curl -fsSL https://raw.githubusercontent.com/h
 ## Example
 
 ![rtfm example](example.png)
+
+![rtfm example 2](example2.png)
