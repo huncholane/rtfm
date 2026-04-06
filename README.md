@@ -18,9 +18,6 @@ mkdir -p ~/.claude/skills/rtfm && curl -fsSL https://raw.githubusercontent.com/h
 /rtfm css container queries
 ```
 
-## Output
+## Example
 
-```
-[1] The Rust Reference chapter on lifetimes covers lifetime syntax, elision rules, and how the borrow checker uses lifetimes to enforce memory safety. This is the canonical source for understanding the 'a syntax and where lifetime annotations are required vs inferred.
-https://doc.rust-lang.org/reference/lifetime-elision.html
-```
+![rtfm example](example.png)
